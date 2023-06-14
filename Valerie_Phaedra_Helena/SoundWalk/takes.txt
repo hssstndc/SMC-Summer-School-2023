@@ -1,0 +1,5 @@
+take1: minute 1:30 - 2:30 from clap 
+take 2: minute 0 to 3 from clap
+take 3: minute 2 to 5 from clap 
+
+Cool sound 
